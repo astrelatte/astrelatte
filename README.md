@@ -5,9 +5,9 @@
 Oii 👋
 
 <figure>
-  <a href="https://redwk34.tumblr.com/post/174783574792" target="_blank">
+  <a href="http://www.chelseablecha.com" target="_blank">
     <!-- creditos do gif! -->
-<img src="https://64.media.tumblr.com/90e492ee0cadaa2289e8d7287c22b122/tumblr_pa5l001s051u0zmo4o1_1280.gif" width="400px" align="right">
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="400px" align="right">
 </figure>
 
 📚 Atualmente cursando o 1° modulo de Analise e Desenvolvimento de sistemas na Etec e uso esse perfil como diario pessoal para registrar minha evolução e meus exercicios :D <br>
