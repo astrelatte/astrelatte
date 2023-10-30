@@ -3,12 +3,10 @@
 ## Sobre
 
 Oii 👋
-<!--
+
 <figure>
-  <a href="" target="_blank">
-      artista nao deixa usar a arte :( trocar mais tarde
-<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="400px" align="right">
-</figure> -->
+<img src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif" width="430px" align="right">
+</figure>
 
 📚 Atualmente cursando o 1° modulo de Analise e Desenvolvimento de sistemas na Etec e uso esse perfil como diario pessoal para registrar minha evolução e meus exercicios :D <br>
 🎨 Me interesso em design e criação de sites (apesar de não ser a pessoa mais criativa, *~~treinando isso também~~*).<br>
