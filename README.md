@@ -5,7 +5,7 @@
 Oii 👋
 
 <figure>
-<img src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif" width="430px" align="right">
+<img src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif" width="400px" align="right">
 </figure>
 
 📚 Atualmente cursando o 1° modulo de Analise e Desenvolvimento de sistemas na Etec e uso esse perfil como diario pessoal para registrar minha evolução e meus exercicios :D <br>
