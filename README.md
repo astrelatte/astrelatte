@@ -24,8 +24,17 @@ Oii 👋
 
 ## Social
 
-Voce pode me encontrar aqui!
+<div>
+  
+| Voce pode me encontrar aqui!   | 
+| :---------- |  
+|  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/alex-bandettini-vieira-731738251) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) <a href="https://twitter.com/astrelatte" target="_blank"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+</div>
+Uso instagram e twitter para postar meus estudos com programação e meus aprendizados com inglês e espanhol! 
 
+- Aleatoriamente queria dizer que gosto muito de musica e de compartilhar playlists <br>
+<a href="https://open.spotify.com/playlist/2bsOhA5DoUFuFCF0aGmNwQ" target="_blank">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) </a> <br>
+também gosto muito de conhecer o gosto pessoal dos outros, então pode me seguir se sentir a vontade! 
 
 
 
