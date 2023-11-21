@@ -21,7 +21,9 @@ Oii 👋
 ---
 
 <!--![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrelatte&show_icons=true&theme=calm)-->
- ![Alexande's Github stas](https://github-readme-stats.vercel.app/api/top-langs/?username=astrelatte&layout=donut&langs_count=7&hide=hack,scss,less,stylus&theme=calm) ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrelatte&show_icons=true&theme=calm)
+ <img height="195em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=astrelatte&layout=donut&langs_count=7&hide=hack,scss,less,stylus&theme=calm'/>  <img height="195em" src='https://github-readme-stats.vercel.app/api?username=astrelatte&show_icons=true&theme=calm' />
+
+
 
 ## Social
 
