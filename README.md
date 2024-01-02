@@ -8,7 +8,7 @@ Oii 👋
 <img src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif" width="370px" align="right">
 
 
-📚 Atualmente cursando o 1° modulo de Analise e Desenvolvimento de sistemas na Etec e uso esse perfil como diario pessoal para registrar minha evolução e meus exercicios :D <br>
+📚 Atualmente cursando o 2° modulo de Analise e Desenvolvimento de sistemas na Etec e uso esse perfil como diario pessoal para registrar minha evolução e meus exercicios :D <br>
 🎨 Me interesso em design e criação de sites (apesar de não ser a pessoa mais criativa, *~~treinando isso também~~*).<br>
 ☕ Obcecado por cafeina, livros, musicas, pintura e resumos bagunçados <br>
 🦊 *"Fight because you don't know how to die quietly. Win because you don't know how to lose." - aftg*  
